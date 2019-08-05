@@ -1,14 +1,14 @@
 title:              Jockc
 email:              jockchiang@163.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+description:        My technology sharing.
+author:             Jockc
 baseurl:            ""
 url:                "https://blackrockdigital.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   J_K_ET
+github_username:    JockChiang
+facebook_username:  peter.jiang.jk
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics

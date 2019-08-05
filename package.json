@@ -1,8 +1,8 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
-    "version": "4.0.8",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
+    "title": "Jockc Blog",
+    "name": "Jockc Technology Blog",
+    "version": "1.0.0",
+    "description": "My Blog is a technology sharing.",
     "keywords": [
         "css",
         "sass",
@@ -11,13 +11,13 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
+    "homepage": "https://jockchiang.github.io/",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "jockchiang@163.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "JockJock",
     "contributors": [
         "David Miller (http://davidmiller.io/)"
     ],
