@@ -1,38 +1,38 @@
 {
-    "title": "Jockc Blog",
-    "name": "Jockc Technology Blog",
-    "version": "1.0.0",
-    "description": "My Blog is a technology sharing.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://jockchiang.github.io/",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
-        "email": "jockchiang@163.com"
-    },
-    "license": "MIT",
-    "author": "JockJock",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
-    },
-    "dependencies": {
-        "bootstrap": "4.3.1",
-        "font-awesome": "4.7.0",
-        "jquery": "3.4.1",
-        "startbootstrap-clean-blog": "5.0.7"
-    },
-    "devDependencies": {
-        "browser-sync": "2.26.7",
-        "gulp": "4.0.2"
-    }
+  "title": "Jockc",
+  "name": "Jockc",
+  "version": "1.0.0",
+  "description": "My Blog is a technology sharing.",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://jockchiang.github.io/",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/issues",
+    "email": "jockchiang@163.com"
+  },
+  "license": "MIT",
+  "author": "JockJock",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "font-awesome": "4.7.0",
+    "jquery": "3.4.1",
+    "startbootstrap-clean-blog": "5.0.7"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "gulp": "4.0.2"
+  }
 }
